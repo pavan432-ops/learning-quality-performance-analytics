@@ -370,17 +370,21 @@ The dashboard was designed around the following principles:
 
 The following images will display once the corresponding screenshots have been uploaded to the repository.
 
-### 📚 Learning Performance Overview
 
-![Learning Performance Overview](screenshots/learning-performance-overview.png)
 
-### ⭐ Quality & Performance Analysis
+## 📊 Dashboard Preview
 
-![Quality & Performance Analysis](screenshots/quality-performance-analysis.png)
+### 1. Learning Performance Overview
 
-### 🚀 Training Effectiveness & Action Plan
+![Learning Performance Overview](learning-performance-overview.png)
 
-![Training Effectiveness & Action Plan](screenshots/training-effectiveness-action-plan.png)
+### 2. Quality & Performance Analysis
+
+![Quality & Performance Analysis](quality-performance-analysis.png)
+
+### 3. Training Effectiveness & Action Plan
+
+![Training Effectiveness & Action Plan](training-effectiveness-action-plan.png)
 
 ---
 
